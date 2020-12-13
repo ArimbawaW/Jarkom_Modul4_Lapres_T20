@@ -19,3 +19,9 @@ Server diberikan IP DMZ.
 Berikan memori sebesar 64MB pada setiap UML.
 Pembagian IP dan routing harus SE-EFISIEN MUNGKIN.
 Pastikan semua UML dapat melakukan ping ke its.ac.id
+
+### Jawaban
+
+Pertama kita bisa menginstall  Cisco packet tracer lalu kita bisa membuat topologi cloud  Switch Router dan PC lalu Sambungkan setiap komponen menggunakan Connection setelah itu kita bisa bagi dulu koneksi yang membutuhkan network 
+
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul4_Lapres_T20/blob/main/topologi.png)
